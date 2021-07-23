@@ -1,0 +1,13 @@
+{
+    "name": "Cảm biến ds18b20",
+    "description": "Mục mở rộng của xbot cho cảm biến nhiệt độ ds18b20",
+    "libs": [
+    ],
+    "blocks": [
+        "definition.js"
+    ],
+    "toolbox": "toolbox.xml",
+    "languages": {
+    },
+    "poster": "poster.png"
+}
