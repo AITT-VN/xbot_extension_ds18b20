@@ -2,7 +2,7 @@ Blockly.Blocks["update_ds18b20"] = {
   init: function () {
     this.jsonInit({
       [{
-      colour: "#3F63AD",
+      colour: "#ff3333",
       tooltip: "",
       message0: "cập nhật cảm biến ds18b20 cổng %1 pin %2",
       args0: [
@@ -37,7 +37,7 @@ Blockly.Blocks["update_ds18b20"] = {
 Blockly.Blocks["read_ds18b20"] = {
   init: function () {
     this.jsonInit({
-      colour: "#3F63AD",
+      colour: "#ff3333",
       tooltip: "",
       message0: "đọc cảm biến ds18b20 cổng %1 pin %2",
       args0: [
