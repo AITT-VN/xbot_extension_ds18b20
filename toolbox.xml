@@ -1,5 +1,5 @@
 <xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
-  <category name="ds18b20" colour="#3F63AD" icon="thermometer-quarter">
+  <category name="ds18b20" colour="#ae00ae" icon="thermometer">
     <block type="update_ds18b20" />
     <block type="read_ds18b20" />
   </category>
